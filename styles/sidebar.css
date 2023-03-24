@@ -27,3 +27,8 @@
   font-family: roboto, arial;
   font-size: 10px;
 }
+@media screen and (max-width: 600px) {
+  .sidebar {
+    width: auto;
+  }
+}
